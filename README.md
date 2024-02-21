@@ -1,1 +1,1 @@
-# Template for raylib-desktop & web
+# Hot reloading template for raylib-desktop & web
